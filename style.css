@@ -1,0 +1,121 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    width: 80%;
+    height: 60vh;
+    font-family: 'Poppins', sans-serif;
+}
+img
+{
+    width: 34%;
+    height: 32%;
+}
+
+p
+{
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+
+.p
+{
+   position: relative;
+   left: 30px;
+   bottom: 20px; 
+}
+
+
+.logo
+{
+    margin-top: 200px;
+    margin-left: 140px;
+}
+
+hr
+{
+    width: 364px;
+    margin-top: 20px;
+}
+
+.box
+{
+    margin-left: 740px;
+    position: relative;
+    bottom: 250px;
+}
+
+.box
+{
+    background: rgba(0, 174, 255, 0.062);
+    width: 400px;
+    height: 340px;
+    border-radius: 8px;
+}
+
+form
+{
+    margin-left: 18px;
+}
+
+form input
+{
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px;
+    width: 340px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+button
+{
+    border: none;
+    background: rgba(0, 0, 255, 0.788);
+    margin-top: 20px;
+    width: 362px;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.link1
+{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+a
+{
+    font-size: 18px;
+    color:rgba(0, 0, 255, 0.712);
+}
+
+
+
+.cna
+{
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    background: #17b103f1;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.ct
+{
+margin-left: 22%;
+}
